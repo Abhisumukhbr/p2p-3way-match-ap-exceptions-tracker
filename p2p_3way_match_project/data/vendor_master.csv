@@ -1,0 +1,41 @@
+Vendor_ID,Vendor_Name,Payment_Terms_Days,GST_Rate,Risk_Tier
+V001,Apex Industrial Supplies Pvt Ltd,45,5,Low
+V002,BluePeak Office Systems Pvt Ltd,30,12,Low
+V003,Crown Packaging Solutions,15,5,Low
+V004,Delta Engineering Components,15,12,Low
+V005,Evergreen Facility Products,45,12,Medium
+V006,Falcon Electricals India Pvt Ltd,30,5,Medium
+V007,Gamma Safety Solutions,30,5,Low
+V008,Horizon IT Distribution,30,18,High
+V009,Indus Mechanical Works,30,12,Low
+V010,Jupiter Office Products,45,18,Low
+V011,Kaveri Industrial Traders,30,18,Low
+V012,Lotus Packaging India Pvt Ltd,30,12,High
+V013,Metro Fasteners,30,18,Low
+V014,Nova Tech Systems,45,5,Low
+V015,Orbit Maintenance Supplies,30,18,Low
+V016,Prime Tools & Components,15,12,High
+V017,Quantum Electricals,15,18,Medium
+V018,Ridgeway Bearings,60,5,Medium
+V019,Sigma Industrial Products,60,12,Medium
+V020,Trident Facility Services,45,12,Medium
+V021,United Process Equipment,30,18,Low
+V022,Vertex Automation,60,18,Low
+V023,Westline Consumables,45,12,Medium
+V024,Zenith Engineering Supplies,45,12,Medium
+V025,Arun Safety & PPE,30,12,Low
+V026,Bharat Industrial Stores,30,18,Low
+V027,Crest Chemicals,15,12,Medium
+V028,Dynamo Power Systems,60,5,Low
+V029,Eagle Stationery Solutions,30,18,High
+V030,Frontier Components,30,18,Low
+V031,Ganga Hardware Traders,30,5,Low
+V032,Helios Controls,30,18,Medium
+V033,Innovatech Solutions,30,5,Low
+V034,Jade Logistics Supplies,60,18,Low
+V035,Keystone Industrial Products,45,12,Low
+V036,Lumina Office Technologies,45,18,Medium
+V037,Magnus Tools,30,18,Low
+V038,NexGen Components,45,18,Low
+V039,Omkar Facility Products,30,5,Medium
+V040,Pioneer Electrical Traders,45,18,High
